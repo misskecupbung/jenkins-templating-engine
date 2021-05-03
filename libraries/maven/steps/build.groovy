@@ -1,4 +1,4 @@
-// package maven
+package maven
 
 void call(){
     stage("Maven: Build"){
