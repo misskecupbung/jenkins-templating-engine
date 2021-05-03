@@ -1,1 +1,1 @@
-# jenkins-templating-engine
+# Jenkins Templating Engine
