@@ -1,4 +1,4 @@
-// package sonarqube
+package sonarqube
 
 void call(){
     stage("SonarQube: Static Code Analysis"){
