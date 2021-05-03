@@ -1,4 +1,0 @@
-@merge libraries{
-    maven
-    sonarqube
-}
